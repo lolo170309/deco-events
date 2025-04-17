@@ -1,0 +1,28 @@
+#nav{
+    background-color: grey;
+    width: 800px;
+}
+#div1{
+    color: blue;
+}
+#div2{
+    color:darkgray;
+}
+#div3{
+    border: 2px solid black;
+    width: 100px ;
+    height: 100px;
+
+}
+#div4{
+    border: 2px solid black;
+    width: 100px ;
+    height: 100px;
+
+}
+#div5{
+    border: 2px solid black;
+    width: 100px ;
+    height: 100px;
+
+}
